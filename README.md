@@ -5,7 +5,7 @@
 #### [Microsoft Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
 #### [LLM Course](https://github.com/mlabonne/llm-course)
 #### [Google ML Learning](https://developers.google.com/machine-learning/foundational-courses)
-#### [LLM Course](https://huggingface.co/learn/llm-course/en/chapter0/1)
+#### [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/en/chapter0/1)
 ---
 #### Learning Process---
 #### 1. Microsoft AI For Beginners
