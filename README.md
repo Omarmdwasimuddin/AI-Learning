@@ -4,6 +4,7 @@
 #### [Microsoft ML For Beginners](https://github.com/microsoft/ml-for-beginners)
 #### [Microsoft Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
 #### [LLM Course](https://github.com/mlabonne/llm-course)
+#### [Google ML Learning](https://developers.google.com/machine-learning/foundational-courses)
 ---
 #### Learning Process---
 #### 1. Microsoft AI For Beginners
